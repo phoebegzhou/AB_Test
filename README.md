@@ -1,4 +1,4 @@
-# AB_Test_002
+# AB_Test
 
 **Introduction**
 
